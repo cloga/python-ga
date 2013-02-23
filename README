@@ -1,4 +1,2 @@
-Command-line samples for producting reports with the Analytics API.
-
-api: analytics
-keywords: cmdline
+GA report API的一个Python简单实现
+Python_GA.py
