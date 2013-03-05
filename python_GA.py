@@ -56,7 +56,7 @@ def get_data(args,type='ga'):
     print '解析数据,打开:\n'+url
     content=json.loads(urllib2.urlopen(url).read())
     return content
-def write_csv(data,type='ga'):
+def write_csv(data,type='ga',name='ga_data'):
     '''type指定写入的数据格式，普通数据为ga，funnel数据为funnel，mcf数据为mcf'''
     if type=='ga':
         headers=[i['name'] for i in data['columnHeaders']]
@@ -74,9 +74,9 @@ def write_csv(data,type='ga'):
         content=','.join(headers).encode('gbk','ignore')+'\n'+'\n'.join(lines)
     elif type=='mcf':
         pass
-    with open('./ga_data.csv','w') as f:
+    with open('./'+name+'.csv','w') as f:
         f.write(content)
     print "Data has been writen!"
 mcf_data=get_data(args,type='mcf')
-print 'complete'
 write_csv(mcf_data,type='funnel')
+print 'complete'

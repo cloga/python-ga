@@ -1,10 +1,10 @@
 mcf:sourceMediumPath,mcf:totalConversions,mcf:totalConversionValue
 pptv / vid,84,0.0
-baidu / cpc,1277198,0.0
-baidu / cpc -> baidu / cpc,55307,0.0
+baidu / cpc,1277688,0.0
+baidu / cpc -> baidu / cpc,55470,0.0
 baidu / cpc -> baidu / cpc -> baidu / cpc,7514,0.0
-baidu / cpc -> baidu / cpc -> baidu / cpc -> baidu / cpc,1732,0.0
-baidu / cpc -> baidu / cpc -> baidu / cpc -> baidu / cpc -> baidu / cpc,499,0.0
+baidu / cpc -> baidu / cpc -> baidu / cpc -> baidu / cpc,1715,0.0
+baidu / cpc -> baidu / cpc -> baidu / cpc -> baidu / cpc -> baidu / cpc,482,0.0
 baidu / cpc -> baidu / cpc -> baidu / cpc -> baidu / cpc -> baidu / cpc -> baidu / cpc,178,0.0
 baidu / cpc -> baidu / cpc -> baidu / cpc -> baidu / cpc -> baidu / cpc -> baidu / cpc -> baidu / cpc,51,0.0
 baidu / cpc -> baidu / cpc -> baidu / cpc -> baidu / cpc -> baidu / cpc -> baidu / cpc -> baidu / cpc -> baidu / cpc,51,0.0
@@ -52,8 +52,8 @@ baidu / cpc -> baidu / organic,473,0.0
 baidu / cpc -> baidu / organic -> baidu / cpc,68,0.0
 baidu / cpc -> baidu / organic -> baidu / cpc -> baidu / cpc -> baidu / cpc -> baidu / cpc,34,0.0
 baidu / cpc -> sogou / organic,25,0.0
-baidu / cpc -> (direct) / (none),1971,0.0
-baidu / cpc -> (direct) / (none) -> baidu / cpc,202,0.0
+baidu / cpc -> (direct) / (none),1989,0.0
+baidu / cpc -> (direct) / (none) -> baidu / cpc,219,0.0
 baidu / cpc -> (direct) / (none) -> baidu / cpc -> baidu / cpc,76,0.0
 baidu / cpc -> (direct) / (none) -> baidu / organic,34,0.0
 baidu / cpc -> (direct) / (none) -> (direct) / (none),101,0.0
@@ -68,10 +68,10 @@ baidu / cpc -> so.360 / organic,34,0.0
 baidu / cpc -> Tencent / pre-roll,17,0.0
 baidu / cpc -> letv.com / referral,17,0.0
 baidu / cpc -> letv.com / referral -> baidu / cpc,25,0.0
-baidu / cpc -> iqiyi.com / referral,321,0.0
+baidu / cpc -> iqiyi.com / referral,338,0.0
 baidu / cpc -> iqiyi.com / referral -> (direct) / (none),17,0.0
 baidu / cpc -> so.360.cn / referral,17,0.0
-baidu / cpc -> tudou.com / referral,119,0.0
+baidu / cpc -> tudou.com / referral,136,0.0
 baidu / cpc -> tudou.com / referral -> baidu / cpc -> baidu / cpc,25,0.0
 baidu / cpc -> kankan.com / referral,42,0.0
 baidu / cpc -> e.weibo.com / referral,17,0.0
@@ -80,10 +80,10 @@ baidu / cpc -> yule.iqiyi.com / referral -> baidu / cpc,17,0.0
 baidu / cpc -> snickers.com.cn / referral,185,0.0
 baidu / cpc -> static.youku.com / referral,17,0.0
 baidu / cpc -> player.letvcdn.com / referral,17,0.0
-pps / video,22356,0.0
+pps / video,22381,0.0
 pps / video -> baidu / cpc,25,0.0
-pps / video -> pps / video,604,0.0
-pps / video -> pps / video -> pps / video,68,0.0
+pps / video -> pps / video,621,0.0
+pps / video -> pps / video -> pps / video,51,0.0
 pps / video -> pps / video -> pps / video -> pps / video,76,0.0
 pps / video -> pps / video -> pps / video -> pps / video -> pps / video,25,0.0
 pps / video -> pps / video -> pps / video -> pps / video -> pps / video -> pps / video,42,0.0
@@ -104,7 +104,7 @@ dream.letv.com / referral,17,0.0
 freshupnow.com / referral,449,0.0
 igogoshare.com / referral,17,0.0
 jxad.jx163.com / referral,153,0.0
-js.tudouui.com / referral,13731,0.0
+js.tudouui.com / referral,13680,0.0
 js.tudouui.com / referral -> tudou / video,51,0.0
 js.tudouui.com / referral -> tudou / video -> (direct) / (none) -> (direct) / (none),17,0.0
 js.tudouui.com / referral -> tudou / video -> (direct) / (none) -> (direct) / (none) -> (direct) / (none),17,0.0
@@ -133,7 +133,7 @@ pp.ppsj.com.cn / referral,17,0.0
 qq.hz.letv.com / referral,17,0.0
 teluguwala.com / referral,17,0.0
 thecinebay.com / referral,17,0.0
-yule.iqiyi.com / referral,1987,0.0
+yule.iqiyi.com / referral,1970,0.0
 yule.iqiyi.com / referral -> baidu / cpc,34,0.0
 yule.iqiyi.com / referral -> tudou / video,34,0.0
 yule.iqiyi.com / referral -> (direct) / (none),17,0.0
@@ -161,7 +161,7 @@ pinoylovers.com / referral,25,0.0
 pinoylovetv.com / referral,17,0.0
 proudlypinoy.tv / referral,34,0.0
 samaikiller.com / referral,68,0.0
-snickers.com.cn / referral,15771,0.0
+snickers.com.cn / referral,15746,0.0
 snickers.com.cn / referral -> baidu / cpc,644,0.0
 snickers.com.cn / referral -> baidu / cpc -> baidu / cpc,51,0.0
 snickers.com.cn / referral -> baidu / cpc -> baidu / cpc -> baidu / cpc,34,0.0
@@ -202,8 +202,8 @@ abcmalayalam.com / referral -> abcmalayalam.com / referral,42,0.0
 cochinmovies.com / referral,42,0.0
 dove.m.tmall.com / referral,17,0.0
 pinoysabroad.org / referral,17,0.0
-player.youku.com / referral,603,0.0
-static.youku.com / referral,21010,0.0
+player.youku.com / referral,586,0.0
+static.youku.com / referral,21122,0.0
 static.youku.com / referral -> baidu / cpc,25,0.0
 static.youku.com / referral -> snickers.com.cn / referral,34,0.0
 static.youku.com / referral -> abcmalayalam.com / referral,17,0.0
@@ -211,7 +211,7 @@ static.youku.com / referral -> static.youku.com / referral,313,0.0
 static.youku.com / referral -> iqiyi / video,17,0.0
 static.youku.com / referral -> youku / video,93,0.0
 static.youku.com / referral -> youku / banner,76,0.0
-static.youku.com / referral -> (direct) / (none),255,0.0
+static.youku.com / referral -> (direct) / (none),238,0.0
 static.youku.com / referral -> (direct) / (none) -> (direct) / (none) -> (direct) / (none),17,0.0
 static.youku.com / referral -> (direct) / (none) -> (direct) / (none) -> (direct) / (none) -> (direct) / (none),51,0.0
 static.youku.com / referral -> (direct) / (none) -> (direct) / (none) -> (direct) / (none) -> (direct) / (none) -> baidu / cpc,17,0.0
@@ -274,7 +274,7 @@ iqiyi / video -> iqiyi / video -> tudou.com / referral,25,0.0
 iqiyi / video -> iqiyi / video -> tudou.com / referral -> tudou.com / referral,25,0.0
 iqiyi / video -> iqiyi / banner,85,0.0
 iqiyi / video -> pps / clientend,34,0.0
-iqiyi / video -> (direct) / (none),662,0.0
+iqiyi / video -> (direct) / (none),620,0.0
 iqiyi / video -> (direct) / (none) -> iqiyi / video,34,0.0
 iqiyi / video -> (direct) / (none) -> (direct) / (none),17,0.0
 iqiyi / video -> tudou.com / referral,34,0.0
@@ -288,13 +288,14 @@ pptv / banner -> tudou / video,17,0.0
 pptv / banner -> pptv / banner,17,0.0
 pptv / banner -> (direct) / (none),76,0.0
 tudou / video,144287,0.0
-tudou / video -> baidu / cpc,169,0.0
+tudou / video -> baidu / cpc,144,0.0
 tudou / video -> pps / banner,17,0.0
 tudou / video -> tudou / video,5124,0.0
 tudou / video -> tudou / video -> baidu / cpc,17,0.0
 tudou / video -> tudou / video -> tudou / video,493,0.0
 tudou / video -> tudou / video -> tudou / video -> tudou / video,119,0.0
 tudou / video -> tudou / video -> tudou / video -> tudou / video -> tudou / video,59,0.0
+tudou / video -> tudou / video -> tudou / banner,25,0.0
 tudou / video -> tudou / video -> (direct) / (none),102,0.0
 tudou / video -> tudou / video -> (direct) / (none) -> (direct) / (none),34,0.0
 tudou / video -> tudou / video -> tudou.com / referral,17,0.0
@@ -306,7 +307,7 @@ tudou / video -> iqiyi / video -> iqiyi / video,25,0.0
 tudou / video -> iqiyi / video -> iqiyi / video -> iqiyi / video,25,0.0
 tudou / video -> tudou / banner,128,0.0
 tudou / video -> pps / clientend,67,0.0
-tudou / video -> (direct) / (none),1211,0.0
+tudou / video -> (direct) / (none),1228,0.0
 tudou / video -> (direct) / (none) -> tudou / video,76,0.0
 tudou / video -> (direct) / (none) -> (direct) / (none),17,0.0
 tudou / video -> (direct) / (none) -> (direct) / (none) -> tudou.com / referral,17,0.0
@@ -330,7 +331,7 @@ youku / video -> (direct) / (none),618,0.0
 youku / video -> (direct) / (none) -> youku / video,59,0.0
 youku / video -> letv.com / referral,17,0.0
 youku / video -> tudou.com / referral,68,0.0
-youku / video -> iqiyi.com / referral,17,0.0
+youku / video -> iqiyi.com / referral,34,0.0
 youku / video -> iqiyi.com / referral -> (direct) / (none),17,0.0
 RenRen / share,195,0.0
 bing / organic,143,0.0
@@ -345,10 +346,10 @@ iqiyi / banner -> iqiyi / banner,188,0.0
 iqiyi / banner -> tudou / banner,17,0.0
 iqiyi / banner -> (direct) / (none),102,0.0
 iqiyi / banner -> (direct) / (none) -> iqiyi / banner,17,0.0
-iqiyi / banner -> iqiyi.com / referral,110,0.0
+iqiyi / banner -> iqiyi.com / referral,93,0.0
 iqiyi / banner -> tudou.com / referral,60,0.0
 soso / organic,17,0.0
-tudou / banner,34971,0.0
+tudou / banner,35005,0.0
 tudou / banner -> baidu / cpc,101,0.0
 tudou / banner -> baidu / cpc -> baidu / cpc,17,0.0
 tudou / banner -> Qzone / share,17,0.0
@@ -364,6 +365,12 @@ tudou / banner -> tudou / banner -> tudou / banner -> tudou / banner -> tudou / 
 tudou / banner -> tudou / banner -> tudou / banner -> tudou / banner -> tudou / banner -> tudou / banner -> tudou / banner -> tudou / banner -> tudou / banner -> tudou / banner,42,0.0
 tudou / banner -> tudou / banner -> tudou / banner -> tudou / banner -> tudou / banner -> tudou / banner -> tudou / banner -> tudou / banner -> tudou / banner -> tudou / banner -> tudou / banner,42,0.0
 tudou / banner -> tudou / banner -> tudou / banner -> tudou / banner -> tudou / banner -> tudou / banner -> tudou / banner -> tudou / banner -> tudou / banner -> tudou / banner -> tudou / banner -> tudou / banner,17,0.0
+tudou / banner -> tudou / banner -> tudou / banner -> tudou / banner -> tudou / banner -> tudou / banner -> tudou / banner -> tudou / banner -> tudou / banner -> tudou / banner -> tudou / banner -> tudou / banner -> tudou / banner,34,0.0
+tudou / banner -> tudou / banner -> tudou / banner -> tudou / banner -> tudou / banner -> tudou / banner -> tudou / banner -> tudou / banner -> tudou / banner -> tudou / banner -> tudou / banner -> tudou / banner -> tudou / banner -> tudou / banner,42,0.0
+tudou / banner -> tudou / banner -> tudou / banner -> tudou / banner -> tudou / banner -> tudou / banner -> tudou / banner -> tudou / banner -> tudou / banner -> tudou / banner -> tudou / banner -> tudou / banner -> tudou / banner -> tudou / banner -> tudou / banner,42,0.0
+tudou / banner -> tudou / banner -> tudou / banner -> tudou / banner -> tudou / banner -> tudou / banner -> tudou / banner -> tudou / banner -> tudou / banner -> tudou / banner -> tudou / banner -> tudou / banner -> tudou / banner -> tudou / banner -> tudou / banner -> tudou / banner,25,0.0
+tudou / banner -> tudou / banner -> tudou / banner -> tudou / banner -> tudou / banner -> tudou / banner -> tudou / banner -> tudou / banner -> tudou / banner -> tudou / banner -> tudou / banner -> tudou / banner -> tudou / banner -> tudou / banner -> tudou / banner -> tudou / banner -> tudou / banner,42,0.0
+tudou / banner -> tudou / banner -> tudou / banner -> tudou / banner -> tudou / banner -> tudou / banner -> tudou / banner -> tudou / banner -> tudou / banner -> tudou / banner -> tudou / banner -> tudou / banner -> tudou / banner -> tudou / banner -> tudou / banner -> tudou / banner -> tudou / banner -> tudou / banner,42,0.0
 tudou / banner -> tudou / banner -> (direct) / (none),34,0.0
 tudou / banner -> (direct) / (none),136,0.0
 tudou / banner -> tudou.com / referral,51,0.0
@@ -377,7 +384,7 @@ youku / banner -> pps / clientend,17,0.0
 youku / banner -> (direct) / (none),42,0.0
 Tencent / share,262,0.0
 Tencent / share -> baidu / organic,17,0.0
-baidu / organic,3024,0.0
+baidu / organic,3075,0.0
 baidu / organic -> baidu / cpc,271,0.0
 baidu / organic -> baidu / cpc -> baidu / cpc,93,0.0
 baidu / organic -> baidu / cpc -> baidu / cpc -> baidu / cpc -> baidu / cpc,17,0.0
@@ -389,7 +396,7 @@ baidu / organic -> (direct) / (none),51,0.0
 baidu / organic -> (direct) / (none) -> baidu / cpc,8,0.0
 baidu / organic -> (direct) / (none) -> (direct) / (none),25,0.0
 pps / clientend,86232,0.0
-pps / clientend -> baidu / cpc,34,0.0
+pps / clientend -> baidu / cpc,51,0.0
 pps / clientend -> pps / banner,42,0.0
 pps / clientend -> pps / banner -> baidu / cpc,17,0.0
 pps / clientend -> tudou / video,42,0.0
@@ -403,12 +410,12 @@ pps / clientend -> (direct) / (none) -> pps / clientend,67,0.0
 pps / clientend -> letv.com / referral,17,0.0
 pps / clientend -> tudou.com / referral,17,0.0
 pps / clientend -> tudou.com / referral -> tudou.com / referral,17,0.0
-sogou / organic,866,0.0
+sogou / organic,849,0.0
 sogou / organic -> (direct) / (none),42,0.0
 sogou / organic -> (direct) / (none) -> sogou / organic,17,0.0
 yahoo / organic,17,0.0
-(direct) / (none),1311031,0.0
-(direct) / (none) -> baidu / cpc,5803,0.0
+(direct) / (none),1309848,0.0
+(direct) / (none) -> baidu / cpc,5820,0.0
 (direct) / (none) -> baidu / cpc -> baidu / cpc,441,0.0
 (direct) / (none) -> baidu / cpc -> baidu / cpc -> baidu / cpc,127,0.0
 (direct) / (none) -> baidu / cpc -> baidu / cpc -> baidu / cpc -> (direct) / (none),17,0.0
@@ -455,7 +462,7 @@ yahoo / organic,17,0.0
 (direct) / (none) -> youku / video -> (direct) / (none),59,0.0
 (direct) / (none) -> youku / video -> (direct) / (none) -> youku / video,17,0.0
 (direct) / (none) -> iqiyi / banner,204,0.0
-(direct) / (none) -> tudou / banner,213,0.0
+(direct) / (none) -> tudou / banner,119,0.0
 (direct) / (none) -> youku / banner,60,0.0
 (direct) / (none) -> Tencent / share,25,0.0
 (direct) / (none) -> baidu / organic,85,0.0
@@ -463,7 +470,7 @@ yahoo / organic,17,0.0
 (direct) / (none) -> pps / clientend -> pps / clientend,17,0.0
 (direct) / (none) -> sogou / organic,51,0.0
 (direct) / (none) -> sogou / organic -> (direct) / (none),42,0.0
-(direct) / (none) -> (direct) / (none),33479,0.0
+(direct) / (none) -> (direct) / (none),33462,0.0
 (direct) / (none) -> (direct) / (none) -> baidu / cpc,169,0.0
 (direct) / (none) -> (direct) / (none) -> 10.161.120.192 / referral -> (direct) / (none) -> 10.161.120.192 / referral,17,0.0
 (direct) / (none) -> (direct) / (none) -> 10.161.120.192 / referral -> (direct) / (none) -> 10.161.120.192 / referral -> (direct) / (none) -> 10.161.120.192 / referral -> (direct) / (none) -> 10.161.120.192 / referral -> 10.161.120.192 / referral,17,0.0
@@ -472,11 +479,11 @@ yahoo / organic,17,0.0
 (direct) / (none) -> (direct) / (none) -> youku / video,42,0.0
 (direct) / (none) -> (direct) / (none) -> iqiyi / banner,17,0.0
 (direct) / (none) -> (direct) / (none) -> pps / clientend,17,0.0
-(direct) / (none) -> (direct) / (none) -> (direct) / (none),5157,0.0
+(direct) / (none) -> (direct) / (none) -> (direct) / (none),5208,0.0
 (direct) / (none) -> (direct) / (none) -> (direct) / (none) -> 10.161.120.192 / referral -> (direct) / (none),17,0.0
 (direct) / (none) -> (direct) / (none) -> (direct) / (none) -> tudou / video,84,0.0
-(direct) / (none) -> (direct) / (none) -> (direct) / (none) -> (direct) / (none),1488,0.0
-(direct) / (none) -> (direct) / (none) -> (direct) / (none) -> (direct) / (none) -> (direct) / (none),859,0.0
+(direct) / (none) -> (direct) / (none) -> (direct) / (none) -> (direct) / (none),1471,0.0
+(direct) / (none) -> (direct) / (none) -> (direct) / (none) -> (direct) / (none) -> (direct) / (none),876,0.0
 (direct) / (none) -> (direct) / (none) -> (direct) / (none) -> (direct) / (none) -> (direct) / (none) -> (direct) / (none),696,0.0
 (direct) / (none) -> (direct) / (none) -> (direct) / (none) -> (direct) / (none) -> (direct) / (none) -> (direct) / (none) -> (direct) / (none),357,0.0
 (direct) / (none) -> (direct) / (none) -> (direct) / (none) -> (direct) / (none) -> (direct) / (none) -> (direct) / (none) -> (direct) / (none) -> jxad.jx163.com / referral -> jxad.jx163.com / referral -> (direct) / (none),17,0.0
@@ -533,7 +540,7 @@ yahoo / organic,17,0.0
 (direct) / (none) -> Tencent / pre-roll -> Tencent / pre-roll -> Tencent / pre-roll,25,0.0
 (direct) / (none) -> letv.com / referral,288,0.0
 (direct) / (none) -> bjpyb.com / referral -> (direct) / (none),17,0.0
-(direct) / (none) -> iqiyi.com / referral,985,0.0
+(direct) / (none) -> iqiyi.com / referral,960,0.0
 (direct) / (none) -> iqiyi.com / referral -> baidu / cpc,34,0.0
 (direct) / (none) -> iqiyi.com / referral -> tudou / video,17,0.0
 (direct) / (none) -> iqiyi.com / referral -> (direct) / (none),110,0.0
@@ -628,7 +635,7 @@ mars.com / referral -> sogou / organic,42,0.0
 mjoon.tv / referral,144,0.0
 mjoon.tv / referral -> mjoon.tv / referral,17,0.0
 hzim.org / referral,42,0.0
-letv.com / referral,24421,0.0
+letv.com / referral,24482,0.0
 letv.com / referral -> baidu / cpc,68,0.0
 letv.com / referral -> baidu / cpc -> tudou.com / referral,34,0.0
 letv.com / referral -> tudou / video,17,0.0
@@ -668,8 +675,8 @@ v.qq.com / referral,102,0.0
 ah.189.cn / referral,85,0.0
 chosun.us / referral,34,0.0
 go8pm.com / referral,17,0.0
-iqiyi.com / referral,157746,0.0
-iqiyi.com / referral -> baidu / cpc,907,0.0
+iqiyi.com / referral,157815,0.0
+iqiyi.com / referral -> baidu / cpc,882,0.0
 iqiyi.com / referral -> baidu / cpc -> baidu / cpc,34,0.0
 iqiyi.com / referral -> pps / video,34,0.0
 iqiyi.com / referral -> Qzone / share,17,0.0
@@ -680,7 +687,7 @@ iqiyi.com / referral -> youku / video,25,0.0
 iqiyi.com / referral -> iqiyi / banner,128,0.0
 iqiyi.com / referral -> tudou / banner,85,0.0
 iqiyi.com / referral -> youku / banner,17,0.0
-iqiyi.com / referral -> (direct) / (none),2594,0.0
+iqiyi.com / referral -> (direct) / (none),2637,0.0
 iqiyi.com / referral -> (direct) / (none) -> (direct) / (none),458,0.0
 iqiyi.com / referral -> (direct) / (none) -> (direct) / (none) -> (direct) / (none),178,0.0
 iqiyi.com / referral -> (direct) / (none) -> (direct) / (none) -> (direct) / (none) -> (direct) / (none),110,0.0
@@ -704,24 +711,24 @@ iqiyi.com / referral -> (direct) / (none) -> iqiyi.com / referral -> (direct) / 
 iqiyi.com / referral -> Youku / pre-roll,34,0.0
 iqiyi.com / referral -> iQiyi / pre-roll,161,0.0
 iqiyi.com / referral -> letv.com / referral,17,0.0
-iqiyi.com / referral -> iqiyi.com / referral,1540,0.0
+iqiyi.com / referral -> iqiyi.com / referral,1498,0.0
 iqiyi.com / referral -> iqiyi.com / referral -> iqiyi / video,17,0.0
 iqiyi.com / referral -> iqiyi.com / referral -> (direct) / (none),59,0.0
 iqiyi.com / referral -> iqiyi.com / referral -> (direct) / (none) -> (direct) / (none) -> (direct) / (none),17,0.0
 iqiyi.com / referral -> iqiyi.com / referral -> (direct) / (none) -> iqiyi.com / referral -> iqiyi.com / referral,51,0.0
 iqiyi.com / referral -> iqiyi.com / referral -> iqiyi.com / referral,85,0.0
-iqiyi.com / referral -> tudou.com / referral,102,0.0
+iqiyi.com / referral -> tudou.com / referral,127,0.0
 iqiyi.com / referral -> tudou.com / referral -> baidu / cpc,17,0.0
 iqiyi.com / referral -> tudou.com / referral -> tudou.com / referral,17,0.0
 iqiyi.com / referral -> hao.360.cn / referral,17,0.0
 iqiyi.com / referral -> js.tudouui.com / referral,42,0.0
-iqiyi.com / referral -> player.letvcdn.com / referral,34,0.0
+iqiyi.com / referral -> player.letvcdn.com / referral,51,0.0
 kpopn.com / referral,93,0.0
-libug.net / referral,109,0.0
+libug.net / referral,67,0.0
 phnoy.com / referral,17,0.0
 so.360.cn / referral,25,0.0
-tudou.com / referral,123574,0.0
-tudou.com / referral -> baidu / cpc,262,0.0
+tudou.com / referral,123823,0.0
+tudou.com / referral -> baidu / cpc,279,0.0
 tudou.com / referral -> pps / banner,17,0.0
 tudou.com / referral -> iqiyi / video,51,0.0
 tudou.com / referral -> tudou / video,1192,0.0
@@ -731,17 +738,17 @@ tudou.com / referral -> tudou / video -> tudou / video -> js.tudouui.com / refer
 tudou.com / referral -> tudou / video -> (direct) / (none),34,0.0
 tudou.com / referral -> youku / video,153,0.0
 tudou.com / referral -> tudou / banner,93,0.0
-tudou.com / referral -> (direct) / (none),2063,0.0
+tudou.com / referral -> (direct) / (none),2046,0.0
 tudou.com / referral -> (direct) / (none) -> pps / clientend,17,0.0
 tudou.com / referral -> (direct) / (none) -> (direct) / (none),170,0.0
 tudou.com / referral -> (direct) / (none) -> (direct) / (none) -> tudou / video,17,0.0
 tudou.com / referral -> (direct) / (none) -> (direct) / (none) -> tudou / video -> (direct) / (none) -> (direct) / (none) -> (direct) / (none) -> (direct) / (none) -> (direct) / (none) -> (direct) / (none),17,0.0
 tudou.com / referral -> (direct) / (none) -> (direct) / (none) -> tudou / video -> (direct) / (none) -> (direct) / (none) -> (direct) / (none) -> (direct) / (none) -> (direct) / (none) -> (direct) / (none) -> (direct) / (none),17,0.0
 tudou.com / referral -> (direct) / (none) -> (direct) / (none) -> tudou / video -> (direct) / (none) -> (direct) / (none) -> (direct) / (none) -> (direct) / (none) -> (direct) / (none) -> (direct) / (none) -> (direct) / (none) -> (direct) / (none) -> (direct) / (none) -> (direct) / (none),17,0.0
-tudou.com / referral -> (direct) / (none) -> (direct) / (none) -> (direct) / (none),34,0.0
+tudou.com / referral -> (direct) / (none) -> (direct) / (none) -> (direct) / (none),17,0.0
 tudou.com / referral -> (direct) / (none) -> (direct) / (none) -> (direct) / (none) -> (direct) / (none),34,0.0
 tudou.com / referral -> (direct) / (none) -> (direct) / (none) -> (direct) / (none) -> (direct) / (none) -> (direct) / (none),51,0.0
-tudou.com / referral -> (direct) / (none) -> (direct) / (none) -> (direct) / (none) -> (direct) / (none) -> (direct) / (none) -> (direct) / (none),68,0.0
+tudou.com / referral -> (direct) / (none) -> (direct) / (none) -> (direct) / (none) -> (direct) / (none) -> (direct) / (none) -> (direct) / (none),51,0.0
 tudou.com / referral -> (direct) / (none) -> (direct) / (none) -> (direct) / (none) -> (direct) / (none) -> (direct) / (none) -> (direct) / (none) -> (direct) / (none),34,0.0
 tudou.com / referral -> (direct) / (none) -> (direct) / (none) -> (direct) / (none) -> (direct) / (none) -> (direct) / (none) -> (direct) / (none) -> (direct) / (none) -> (direct) / (none),17,0.0
 tudou.com / referral -> (direct) / (none) -> (direct) / (none) -> (direct) / (none) -> (direct) / (none) -> (direct) / (none) -> (direct) / (none) -> (direct) / (none) -> (direct) / (none) -> (direct) / (none),17,0.0
@@ -769,7 +776,7 @@ x2dsj.com / referral,17,0.0
 1qdisk.com / referral,17,0.0
 222.83.8.3 / referral,17,0.0
 222.83.8.4 / referral,34,0.0
-222.83.8.5 / referral,76,0.0
+222.83.8.5 / referral,42,0.0
 58.56.19.3 / referral,42,0.0
 58.56.19.4 / referral,17,0.0
 58.56.19.5 / referral,34,0.0
@@ -777,7 +784,7 @@ x2dsj.com / referral,17,0.0
 8585tv.com / referral,42,0.0
 mytoday.us / referral,59,0.0
 netsko.com / referral,119,0.0
-olangal.co / referral,34,0.0
+olangal.co / referral,17,0.0
 adquan.com / referral,519,0.0
 adquan.com / referral -> (direct) / (none),17,0.0
 adquan.com / referral -> adquan.com / referral,17,0.0
@@ -790,7 +797,7 @@ douban.com / referral -> snickers.com.cn / referral,42,0.0
 douban.com / referral -> (direct) / (none),25,0.0
 ebenta.com / referral,17,0.0
 hk-pub.com / referral,42,0.0
-kankan.com / referral,17781,0.0
+kankan.com / referral,17833,0.0
 kankan.com / referral -> baidu / cpc,34,0.0
 kankan.com / referral -> baidu / cpc -> baidu / cpc,17,0.0
 kankan.com / referral -> (direct) / (none),153,0.0
@@ -847,7 +854,7 @@ lol.178.com / referral,17,0.0
 s.weibo.com / referral,34,0.0
 tubeplus.me / referral,17,0.0
 tee-pak.net / referral,162,0.0
-v.youku.com / referral,10289,0.0
+v.youku.com / referral,10272,0.0
 v.youku.com / referral -> tudou / video,34,0.0
 v.youku.com / referral -> (direct) / (none),93,0.0
 v.youku.com / referral -> v.youku.com / referral,93,0.0
@@ -921,13 +928,13 @@ pinoymovies101.com / referral,136,0.0
 pinoymovies101.com / referral -> pinoymovies101.com / referral,17,0.0
 player.hz.letv.com / referral,119,0.0
 player.hz.letv.com / referral -> (direct) / (none) -> (direct) / (none) -> (direct) / (none) -> (direct) / (none) -> (direct) / (none) -> (direct) / (none) -> (direct) / (none) -> (direct) / (none) -> (direct) / (none) -> (direct) / (none) -> (direct) / (none) -> (direct) / (none) -> (direct) / (none) -> (direct) / (none),17,0.0
-player.letvcdn.com / referral,21118,0.0
+player.letvcdn.com / referral,21084,0.0
 player.letvcdn.com / referral -> baidu / cpc,76,0.0
 player.letvcdn.com / referral -> baidu / cpc -> baidu / cpc,34,0.0
 player.letvcdn.com / referral -> iqiyi / video,17,0.0
 player.letvcdn.com / referral -> iqiyi / video -> (direct) / (none),34,0.0
 player.letvcdn.com / referral -> baidu / organic,34,0.0
-player.letvcdn.com / referral -> (direct) / (none),340,0.0
+player.letvcdn.com / referral -> (direct) / (none),323,0.0
 player.letvcdn.com / referral -> (direct) / (none) -> (direct) / (none),51,0.0
 player.letvcdn.com / referral -> (direct) / (none) -> (direct) / (none) -> (direct) / (none),102,0.0
 player.letvcdn.com / referral -> (direct) / (none) -> (direct) / (none) -> (direct) / (none) -> (direct) / (none),17,0.0
@@ -939,13 +946,13 @@ player.letvcdn.com / referral -> (direct) / (none) -> (direct) / (none) -> (dire
 player.letvcdn.com / referral -> (direct) / (none) -> (direct) / (none) -> (direct) / (none) -> (direct) / (none) -> (direct) / (none) -> (direct) / (none) -> (direct) / (none) -> (direct) / (none) -> (direct) / (none) -> (direct) / (none),17,0.0
 player.letvcdn.com / referral -> (direct) / (none) -> (direct) / (none) -> (direct) / (none) -> (direct) / (none) -> (direct) / (none) -> (direct) / (none) -> (direct) / (none) -> (direct) / (none) -> (direct) / (none) -> (direct) / (none) -> (direct) / (none) -> (direct) / (none),34,0.0
 player.letvcdn.com / referral -> (direct) / (none) -> (direct) / (none) -> (direct) / (none) -> (direct) / (none) -> (direct) / (none) -> (direct) / (none) -> (direct) / (none) -> (direct) / (none) -> (direct) / (none) -> (direct) / (none) -> (direct) / (none) -> (direct) / (none) -> (direct) / (none),17,0.0
+player.letvcdn.com / referral -> (direct) / (none) -> (direct) / (none) -> (direct) / (none) -> (direct) / (none) -> (direct) / (none) -> (direct) / (none) -> (direct) / (none) -> (direct) / (none) -> (direct) / (none) -> (direct) / (none) -> (direct) / (none) -> (direct) / (none) -> (direct) / (none) -> (direct) / (none),17,0.0
 player.letvcdn.com / referral -> (direct) / (none) -> (direct) / (none) -> (direct) / (none) -> (direct) / (none) -> (direct) / (none) -> (direct) / (none) -> (direct) / (none) -> (direct) / (none) -> (direct) / (none) -> (direct) / (none) -> (direct) / (none) -> (direct) / (none) -> (direct) / (none) -> (direct) / (none) -> (direct) / (none) -> (direct) / (none) -> (direct) / (none),34,0.0
 player.letvcdn.com / referral -> (direct) / (none) -> (direct) / (none) -> (direct) / (none) -> (direct) / (none) -> (direct) / (none) -> (direct) / (none) -> (direct) / (none) -> (direct) / (none) -> (direct) / (none) -> (direct) / (none) -> (direct) / (none) -> (direct) / (none) -> (direct) / (none) -> (direct) / (none) -> (direct) / (none) -> (direct) / (none) -> (direct) / (none) -> (direct) / (none) -> (direct) / (none) -> (direct) / (none),17,0.0
 player.letvcdn.com / referral -> (direct) / (none) -> (direct) / (none) -> (direct) / (none) -> (direct) / (none) -> (direct) / (none) -> (direct) / (none) -> (direct) / (none) -> (direct) / (none) -> (direct) / (none) -> (direct) / (none) -> (direct) / (none) -> (direct) / (none) -> (direct) / (none) -> (direct) / (none) -> (direct) / (none) -> (direct) / (none) -> (direct) / (none) -> (direct) / (none) -> (direct) / (none) -> (direct) / (none) -> (direct) / (none) -> (direct) / (none),17,0.0
 player.letvcdn.com / referral -> (direct) / (none) -> player.letvcdn.com / referral,17,0.0
 player.letvcdn.com / referral -> letv.com / referral,17,0.0
 player.letvcdn.com / referral -> player.letvcdn.com / referral,195,0.0
-player.letvcdn.com / referral -> player.letvcdn.com / referral -> player.letvcdn.com / referral -> static.youku.com / referral,17,0.0
 player.letvcdn.com / referral -> player.letvcdn.com / referral -> player.letvcdn.com / referral -> player.letvcdn.com / referral -> player.letvcdn.com / referral -> player.letvcdn.com / referral -> player.letvcdn.com / referral -> player.letvcdn.com / referral -> player.letvcdn.com / referral,17,0.0
 sports.titan24.com / referral,51,0.0
 watchpinoytube.com / referral,42,0.0
@@ -992,6 +999,3 @@ onlinemoviesportsandtv.com / referral,34,0.0
 free.watchtelugumovies.net / referral,136,0.0
 andhrawala4.blogspot.com.es / referral,17,0.0
 watchbarbiemoviesonline.com / referral,17,0.0
-123andhracinemas.blogspot.in / referral,51,0.0
-youtubewatchfullmovie.blogspot.in / referral,17,0.0
-jujo00obo2o234ungd3t8qjfcjrs3o6k-a-sites-opensocial.googleusercontent.com / referral,17,0.0
