@@ -4,5 +4,8 @@ Python_GA.py
 
 get_toke：获得token
 args：定义查询条件
-get_data(args,type='ga')：获得数据，返回的为Dic结构的数据。type指定查询的数据类型，ga代表常规的报告数据，mcf为多渠道漏斗的数据
-write_csv(data,type='ga',name='ga_data')：data是get_data返回的数据；type为数据类型，ga代表常规的报告数据，mcf为多渠道漏斗的数据；name是文件名，默认为ga_data
+get_data(args)：获得基本数据，返回的为Dict结构的数据。
+get_mcf_data(args)：获得MCF的数据，返回的为Dict结构的数据。
+write_data(headers,rows,name='ga_data')：将基本数据输出为CSV。
+write_funnel_data(headers,rows,name='funnel_data')：输出多渠道数据。
+write_mcf_data(headers,rows,name='mcf_data')：输出MCF的数据，包含First Touch，Last Touch和Linear三种模型
