@@ -138,7 +138,7 @@ def write_mcf_data(headers,rows,name='mcf_data'):
         print "MCF Data has been writen!"
 
 access_token,refresh_token=get_token()
-profile_id='ga:63228014'##要查询数据的Profile_id
+profile_id='ga:XXXX'##要查询数据的Profile_id
 args = 'access_token='+str(access_token)+\
        '&ids='+profile_id+\
        '&start-date='+'2012-09-03'+\
